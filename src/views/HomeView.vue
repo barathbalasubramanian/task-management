@@ -124,7 +124,7 @@ button {
     outline: none;
 	position: relative;
 	left: -4rem;
-	top: 0.5rem;
+	top: 0.3rem;
 	background-color: #171717;
 	
 }
